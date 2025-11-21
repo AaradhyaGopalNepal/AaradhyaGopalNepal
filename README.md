@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
 <h2 align="center"> Currently: Senior Mobile Developer </h2> 
-<h3 align="center"> Future Aim: Senior Backend Developer with good knowlege in DevOps; Formal Mobile, now do it Mobile for Passion </h3> 
+<h4 align="center"> Future Aim: Senior Backend Developer with good knowlege in DevOps; Formal Mobile, now do Mobile for Passion not Profession</h4> 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 📫 You can reach me by this email: **aradhya.1441@gmail.com**
