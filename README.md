@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
-<h3 align="center"> Backend Developer as Profession; FlutterGo-PostgreSQLPro as Passion </h3>
+<h3 align="center"> Java Backend Developer as Profession; FlutterGo-PostgreSQLPro as Passion </h3>
 <img width="1584" height="396" alt="FlutterGo - Post (1)" src="https://github.com/user-attachments/assets/5d6fdea6-2296-4e69-b690-36fcf4b6f42b" />
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
