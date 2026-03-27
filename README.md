@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaradhya Gopal Nepal</h1>
-<h3 align="center"> Backend as Profession; FlutterGo-SQLLinuxPro as Passion </h3>
+<h3 align="center"> Backend Engineer as Profession; FlutterGo-JavaPro as Passion </h3>
 <img width="1584" height="396" alt="FlutterGo - Post (1)" src="https://github.com/user-attachments/assets/cfb8f520-6b4e-492b-8ac6-dade08f4bbb7" />
 <h4 align="center"> Aiming for 1000 commits every year </h4>
 
